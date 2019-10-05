@@ -1,3 +1,5 @@
+<?php
+?>
 <!DOCTYPE html>
 <html>
 
@@ -35,16 +37,16 @@
             <div class="collapse navbar-collapse text-white" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">HOME</a>
+                        <a class="nav-link" href="index.php">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="signup.html">SIGN UP</a>
+                        <a class="nav-link" href="signup.php">SIGN UP</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="calculator.html">CALCULATOR</a>
+                        <a class="nav-link" href="calculator.php">CALCULATOR</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">ABOUT</a>
+                        <a class="nav-link" href="about.php">ABOUT</a>
                     </li>
                 </ul>
             </div>
