@@ -5,7 +5,7 @@
 // Include config file
 // require_once "config.php";
 
-$con = mysqli_connect('localhost','root');
+$con = mysqli_connect('ec2-54-235-96-48.compute-1.amazonaws.com:5432','xspdjfgistisua');
 
 mysqli_select_db($con, 'userregistration');
 
